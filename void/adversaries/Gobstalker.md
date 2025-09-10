@@ -23,5 +23,5 @@
 6. **Petrify.** Place a Petrification Countdown (6) on the target. It ticks down when a PC rolls with Fear. When it triggers, the target turns to stone until the Gobstalker is defeated or they take a long rest. While stone, the target is immune to all damage and aware of their surroundings, but cannot take actions.
 7. **Push.** The target is thrown up to Far range and takes 3d6 physical damage from whatever they hit.
 8. **Sear.** The target takes 2d8 direct magical damage.
-9. **Slow.** The target is Vulnerable and must mark a Stress to move. The target can spend 2 Hope at any time to end this eff ect.
-10. **Terrify.** The target can’t act except to fl ee the battle or try to shake off their fear with a successful Insight Roll (16). Additionally, whenever you spend Fear, the target must mark a Stress. This eff ect lasts until the Gobstalker is defeated or the target takes a rest.
+9. **Slow.** The target is Vulnerable and must mark a Stress to move. The target can spend 2 Hope at any time to end this effect.
+10. **Terrify.** The target can’t act except to flee the battle or try to shake off their fear with a successful Insight Roll (16). Additionally, whenever you spend Fear, the target must mark a Stress. This effect lasts until the Gobstalker is defeated or the target takes a rest.
