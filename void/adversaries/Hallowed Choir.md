@@ -7,7 +7,7 @@
 > **Difficulty:** 17 | **Thresholds:** 24/48 | **HP:** 7 | **Stress:** 6  
 > **ATK:** +2 | **Choir Blast:** Far | 4d10 mag  
 > **Experience:** Music +2
-> 
+
 ## FEATURES
 
 ***Horde (2d8+3) - Passive:*** When the Choir has marked half or more of their HP, their standard attack deals 2d8+3 magic damage instead.
