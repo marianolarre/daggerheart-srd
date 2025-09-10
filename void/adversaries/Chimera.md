@@ -10,7 +10,7 @@
 
 ## FEATURES
 
-****Rending Jaws - Passive:*** When the Chimera makes a successful attack, the target must mark 2 Armor Slots instead of 1 to reduce the damage by one threshold.
+***Rending Jaws - Passive:*** When the Chimera makes a successful attack, the target must mark 2 Armor Slots instead of 1 to reduce the damage by one threshold.
 
 ***Breath of Fire - Action:*** **Spend a Fear** to target up to three PCs in front of the Chimera within Close range. All targets must make an Agility Reaction Roll (20). Targets who fail take **3d12** magic damage. Targets who succeed must to either mark an Armor Slot or mark a Stress.
 
